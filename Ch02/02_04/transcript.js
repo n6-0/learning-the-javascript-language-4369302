@@ -1,9 +1,11 @@
 // This is a transcript of the lines of code from the lesson.
 // You can copy and paste each line into a JavaScript console to execute it and see the result.
 
+// Chapter 2.4 - Numbers
+// all numerical types in JavaScript are numbers
 12
-12.0
-12.82358972893527582
+12.0 // quivalent ot 12.0
+12.82358972893527582 
 -12
 Infinity
 -Infinity

@@ -1,6 +1,8 @@
 // This is a transcript of the lines of code from the lesson.
 // You can copy and paste each line into a JavaScript console to execute it and see the result.
 
+// Chapter 2.3 - JavaScript String methods and properties
+// Strings in JavaScript are objects that come with many different properties and attributes
 var myString = "This is my string. Leave it alone";
 myString;
 myString.length;

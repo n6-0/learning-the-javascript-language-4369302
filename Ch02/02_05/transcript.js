@@ -1,9 +1,11 @@
 // This is a transcript of the lines of code from the lesson.
 // You can copy and paste each line into a JavaScript console to execute it and see the result.
 
-true;
+// chapter 2.5 - Booleans
+true; // all lowercase letters
 false;
 
+// sometimes in programming, booleans are called flags
 True;
 FALSE;
 tRuE;

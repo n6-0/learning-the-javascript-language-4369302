@@ -1,6 +1,7 @@
 // This is a transcript of the lines of code from the lesson.
 // You can copy and paste each line into a JavaScript console to execute it and see the result.
 
+// Chapter 2.1 - Variables
 var x = 32;
 x;
 

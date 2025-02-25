@@ -1,6 +1,8 @@
 // This is a transcript of the lines of code from the lesson.
 // You can copy and paste each line into a JavaScript console to execute it and see the result.
 
+
+// Chapter 2.2 - Strings
 "This is a string";
 "12";
 12;
