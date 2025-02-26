@@ -1,15 +1,22 @@
-12;
-("strings");
-true;
+// Chapter 3 - Objects Arrays and more...
 
-// prettier-ignore
-{}
-var emptyObject = {};
-emptyObject;
+// Chapter 3.1 - Objects
+
+// Data Types
+12; // Number 
+("strings"); // Strings
+true; // Booleans
+
+// objects are more complex data types
+// that allow you to store more complex information
+{} // object literal
+var emptyObject = {}; // empty object
+emptyObject; // empty objects have object properties, but they do not have any value
+
 
 var notEmptyObject = {
   label: "value",
-  label2: "value2",
+  "label2": "value2", // "key", qoutation marks are ignored for keys
 };
 notEmptyObject;
 

@@ -8,14 +8,13 @@
 12;
 
 'This is also a string';
-'This is a string"; // mismatched quotes - this will not execute
-
+'This is a string"; // mismatched quotes - this will not executed'
 '<a href="">';
 '<a href="http://www.example.com">';
 
 "This is Joe's favorite string";
 "This is Joe's \"favorite\" string";
-"This is Joe's "favorite" string"; // this line will not work
+"This is Joe's \"favourite\" string"; // this line will not work
 
 "This is \
 Joe's Favorite \

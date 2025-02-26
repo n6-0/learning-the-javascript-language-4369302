@@ -1,3 +1,7 @@
+// Chapter 3.2 - Using Object for Data Modelling
+
+// creating two objects with same keys, but different value
+// Object bird
 let bird = {
   genus: "corvus",
   species: "corvax",
@@ -9,6 +13,7 @@ let bird = {
   deadly: false,
 };
 
+// Object bear 
 let bear = {
   genus: "ursus",
   species: "arctos",
